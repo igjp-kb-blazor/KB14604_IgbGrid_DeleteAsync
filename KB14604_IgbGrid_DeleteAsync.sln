@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KB14604_IgbGrid_DeleteAsync", "KB14604_IgbGrid_DeleteAsync.csproj", "{5B7047FE-79B7-4026-9433-3E7C2DAD93EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B7047FE-79B7-4026-9433-3E7C2DAD93EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B7047FE-79B7-4026-9433-3E7C2DAD93EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B7047FE-79B7-4026-9433-3E7C2DAD93EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B7047FE-79B7-4026-9433-3E7C2DAD93EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {858A2B5C-9738-46B8-A919-C07261A8CA36}
+	EndGlobalSection
+EndGlobal
